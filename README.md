@@ -1,13 +1,16 @@
 <div align="center">
 
-<a href="https://ammaarm.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+Ammaar+Murshid;Cloud%2FDevOps+Engineer+%40+CGI%2C+London.;Azure+%C2%B7+Terraform+%C2%B7+GitHub+Actions+by+day.;Shipping+small+web+apps+by+night." alt="Ammaar Murshid. Cloud/DevOps Engineer at CGI, London." /></a>
+<a href="https://ammaarm.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+Ammaar+Murshid;DevOps+Platform+Engineer+%40+CGI%2C+London.;Azure+%C2%B7+Terraform+%C2%B7+Kubernetes+by+day.;Co-founder+of+Sabr+Labs+by+night." alt="Ammaar Murshid. DevOps Platform Engineer at CGI, London." /></a>
 
 [![ammaarm.com](https://img.shields.io/badge/ammaarm.com-10b981?style=for-the-badge&logo=astro&logoColor=white)](https://ammaarm.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-10b981?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammaar-murshid-92119218a/)
-[![CV](https://img.shields.io/badge/CV-10b981?style=for-the-badge&logo=readdotcv&logoColor=white)](https://ammaarm.com/Ammaar_Murshid_CV_CloudDevOps.pdf)
+[![CV](https://img.shields.io/badge/CV-10b981?style=for-the-badge&logo=readdotcv&logoColor=white)](https://ammaarm.com/Ammaar_Murshid_CV.pdf)
 
-[![Azure Administrator Associate](https://img.shields.io/badge/Azure_Administrator_Associate-0b0f0d?style=flat-square&logo=microsoftazure&logoColor=10b981)](https://learn.microsoft.com/credentials/certifications/azure-administrator/)
-[![Terraform Associate](https://img.shields.io/badge/Terraform_Associate-0b0f0d?style=flat-square&logo=terraform&logoColor=10b981)](https://developer.hashicorp.com/certifications/infrastructure-automation)
+![CKA](https://img.shields.io/badge/CKA-0b0f0d?style=flat-square&logo=kubernetes&logoColor=10b981)
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-0b0f0d?style=flat-square&logo=amazonwebservices&logoColor=10b981)
+![Azure Administrator Associate](https://img.shields.io/badge/Azure_Administrator_Associate-0b0f0d?style=flat-square&logo=microsoftazure&logoColor=10b981)
+![Terraform Associate](https://img.shields.io/badge/Terraform_Associate-0b0f0d?style=flat-square&logo=terraform&logoColor=10b981)
+![KCNA](https://img.shields.io/badge/KCNA-0b0f0d?style=flat-square&logo=cncf&logoColor=10b981)
 
 </div>
 
@@ -15,9 +18,9 @@
 
 Hey, I'm Ammaar.
 
-I'm a Cloud/DevOps Engineer at **CGI** in London. Day to day I look after five production Azure environments: Terraform modules, GitHub Actions pipelines with policy gates, cost automation, and the Windows and Kubernetes estates underneath.
+I'm a DevOps Platform Engineer at **CGI** in London. On a 24/7 global oil & gas fuel card billing system, I'm the primary maintainer of the IaC and deployed infrastructure (alongside the solution architect) and the primary engineer for all DevOps pipelines and release optimisation. I review infrastructure changes and bring in agentic AI tooling without loosening the guardrails.
 
-Outside work I build small, finished things: a birth-plan builder, a document vault, a number generator for game night. Each one is live, and each one taught me more about shipping end to end, not just the infra part.
+Outside work I co-founded **Sabr Labs**, where we build products like Birth Your Way and LifeVault. I also run a home lab, and ship small things like a number generator for game night.
 
 <br>
 
@@ -27,28 +30,29 @@ Outside work I build small, finished things: a birth-plan builder, a document va
 <tr>
 <td width="50%" align="center" valign="top">
 <br>
-<a href="https://www.birthplan.co.uk"><img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" /></a>
+<a href="https://www.birthplan.co.uk"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /></a>
 
 ### [Birth Your Way](https://www.birthplan.co.uk)
 
-Birth planning, but organised. A guided flow that builds a personalised birth plan you can download and share with your care team.
+Birth planning, but organised. A full-stack platform for building a personalised birth plan and sharing it with your care team. Co-founded at Sabr Labs.
 
-![Next.js](https://img.shields.io/badge/Next.js-0b0f0d?style=flat-square&logo=nextdotjs&logoColor=10b981)
-![Azure Static Web Apps](https://img.shields.io/badge/Azure_Static_Web_Apps-0b0f0d?style=flat-square&logo=microsoftazure&logoColor=10b981)
-![Playwright](https://img.shields.io/badge/Playwright-0b0f0d?style=flat-square&logo=playwright&logoColor=10b981)
+![React](https://img.shields.io/badge/React-0b0f0d?style=flat-square&logo=react&logoColor=10b981)
+![Go](https://img.shields.io/badge/Go-0b0f0d?style=flat-square&logo=go&logoColor=10b981)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b0f0d?style=flat-square&logo=mongodb&logoColor=10b981)
+![Azure](https://img.shields.io/badge/Azure-0b0f0d?style=flat-square&logo=microsoftazure&logoColor=10b981)
 <br><br>
 </td>
 <td width="50%" align="center" valign="top">
 <br>
-<a href="https://lifevault.sabrlabs.co.uk/"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /></a>
+<a href="https://lifevault.sabrlabs.co.uk/"><img src="https://skillicons.dev/icons?i=electron" width="48" alt="Electron" /></a>
 
 ### [LifeVault](https://lifevault.sabrlabs.co.uk/)
 
-A personal file organiser for the documents and records you can never find when you need them.
+A cross-platform desktop app for organising personal and family documents across local and cloud storage. Co-built at Sabr Labs.
 
+![Electron](https://img.shields.io/badge/Electron-0b0f0d?style=flat-square&logo=electron&logoColor=10b981)
 ![React](https://img.shields.io/badge/React-0b0f0d?style=flat-square&logo=react&logoColor=10b981)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b0f0d?style=flat-square&logo=typescript&logoColor=10b981)
-![Tailwind](https://img.shields.io/badge/Tailwind-0b0f0d?style=flat-square&logo=tailwindcss&logoColor=10b981)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0b0f0d?style=flat-square&logo=cloudflare&logoColor=10b981)
 <br><br>
 </td>
 </tr>
@@ -90,12 +94,12 @@ A Go CLI on the Azure SDK for auditing what's actually deployed. `ari list` enum
 <tr>
 <td align="center" width="25%">
 <br><sub><b>CLOUD &amp; IAC</b></sub><br><br>
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes&theme=dark" width="190" alt="Azure, Terraform, Docker, Kubernetes" />
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,kubernetes&theme=dark" width="190" alt="Azure, AWS, Terraform, Kubernetes" />
 <br><br>
 </td>
 <td align="center" width="25%">
 <br><sub><b>PIPELINES</b></sub><br><br>
-<img src="https://skillicons.dev/icons?i=githubactions,git,github,linux&theme=dark" width="190" alt="GitHub Actions, Git, GitHub, Linux" />
+<img src="https://skillicons.dev/icons?i=githubactions,docker,git,linux&theme=dark" width="190" alt="GitHub Actions, Docker, Git, Linux" />
 <br><br>
 </td>
 <td align="center" width="25%">
